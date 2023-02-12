@@ -83,5 +83,11 @@ Implementation examples may come in the future, but not now as i have done the
 entire Implementation and documentation of this in one hungover Sunday session
 after going to bed at 5AM.
 
+There may or may not be existing similar keymaps out there, i haven't checked.
+I came up with this because gaming seemed a bit of the neglected child when it
+came to small form factor keyboards. The usual mindset was to get an extra
+keyboard just for gaming. I found this unnecessary as you can comfortably do both
+if you have the right configuration.
+
 If you have any suggestions or find issues, feel free to open up an issue so i
 can address them.
