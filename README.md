@@ -1,6 +1,6 @@
 # The cotton-brain-keymap
 
-A keymap for 3x5 keyboards, suitable for gaming.
+A keymap for 3x5 split keyboards, suitable for gaming.
 
 ## The Idea behind this keymap
 
